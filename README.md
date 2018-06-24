@@ -1,5 +1,5 @@
 ## Simple MERN Passport Template
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App]
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
@@ -39,7 +39,7 @@ npm run dev
 
 # Instructions
 
-Complete instructions at https://medium.com/@brendt_bly/simple-mern-passport-app-tutorial-4aec2105e367
+Complete instructions at www.ITinterested.edu.pk
 
 ### Completed Features
 
@@ -49,15 +49,13 @@ Complete instructions at https://medium.com/@brendt_bly/simple-mern-passport-app
 - [ ] Store data for production in sessions with connect-mongo
 
 ### Next Steps
-- [ ] Add redux
+-Add redux
 
 ## Author
 
-Brendt Bly
+Hassan Ali
 
-## Acknowledgments
+#Contact-Us
+Email: hassanali197@outlook.com
+Phone # +92s3487530295
 
-Thanks to the people who provided great examples:
-https://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
-
-https://github.com/thechutrain/mern-passport
