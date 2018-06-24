@@ -1,0 +1,29 @@
+.contact-form{
+    width: 40%;
+    margin-top: 5px;
+    padding: 20px;
+}
+
+.txt-msg{
+    width: 180%;
+}
+
+.content-txt{
+    text-align: center;
+    color: #210b3e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .btn-danger{
+    margin-left: 0px;
+    background-image: none;
+    border: none;
+    border-radius: 0;
+    background-color: #472b6b;
+}
+.btn-danger:hover{
+    background-color: #210b3e;
+}
+
+
+

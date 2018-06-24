@@ -1,0 +1,17 @@
+.sidebar-section img {
+    width: 100%;
+    margin-bottom: 2em;
+  }
+
+  .content-gallery{
+    text-align: center;
+    color: #210b3e;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .side-img{
+    width: 40%;
+    height: 30%;
+    margin-left: -100px;
+    float: left;
+  }
